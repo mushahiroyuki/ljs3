@@ -6,9 +6,9 @@
 
 ---
 
-『[初めてのJavaScript 第3版](http://www.marlin-arms.com/support/ljs3/)』の例題用リポジトリです。
+[オライリー・ジャパン](http://www.oreilly.co.jp/books/9784873117836/)発行の『[初めてのJavaScript 第3版](http://www.marlin-arms.com/support/ljs3/)』の例題用リポジトリです。
 
-詳しくは[サポートページ](http://www.marlin-arms.com/support/ljs3/)をご覧ください。
+本について詳しくは[サポートページ](http://www.marlin-arms.com/support/ljs3/)をご覧ください。
 
 
 ## ファイル構成
