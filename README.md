@@ -6,9 +6,9 @@
 
 ---
 
-『[初めてのJavaScript 第3版](http://www.marlin-arms.com/support/)』の例題用リポジトリです。
+『[初めてのJavaScript 第3版](http://www.marlin-arms.com/support/ljs3/)』の例題用リポジトリです。
 
-詳しくは[サポートページ](http://www.marlin-arms.com/support/)をご覧ください。
+詳しくは[サポートページ](http://www.marlin-arms.com/support/ljs3/)をご覧ください。
 
 
 ## ファイル構成
