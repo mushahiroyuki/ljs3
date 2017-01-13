@@ -1,0 +1,6 @@
+/* main.css */
+#mainCanvas {
+  width: 400px;  /* 幅 400ピクセル */
+  height: 400px; /* 高さ 400ピクセル */
+  border: solid 1px black;  /* 実線  1ピクセルの幅　黒 */
+}

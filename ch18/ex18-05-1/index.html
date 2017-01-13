@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>ex-18-06-1</title>
+    <style>
+      .callout {
+        border: solid 1px #ff0080;
+        margin: 2px 4px;
+        padding: 2px 6px;
+      }
+      .code {
+        background: #ccc;
+        margin: 1px 2px;
+        padding: 1px 4px;
+        font-family: monospace;
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <h1>単純なHTMLファイル</h1>
+    </header>
+    <div id="content">
+      <p>
+	これは<b>単純な</b>HTMLファイルです。
+      </p>
+      <div class="callout">
+        <p>
+	  This is as fancy as we'll get!
+	</p>
+      </div>
+      <p>
+	IDはユニークに振らなければならない
+         （同じページ内で同じIDをもつ要素は複数あってはならない）。
+      </p>
+      <p>
+	多くの要素に「クラス」を指定することができる
+	（たとえば <span class="code">.callout</span>といったように）
+      </p>
+      <div id="callout2" class="callout fancy">
+        <p>
+	  ひとつのHTML要素が複数のクラスをもつことができる。
+	</p>
+      </div>
+    </div>
+    <script src="main.js"></script>    
+  </body>
+</html>
