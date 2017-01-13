@@ -1,4 +1,4 @@
-/* Nodeで実行 */
+/* Node.jsで実行 */
 const fs = require('fs');
 
 const fname = 'xxx'; /* 存在しないファイルを指定 */

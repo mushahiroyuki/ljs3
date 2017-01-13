@@ -1,4 +1,4 @@
-/* この例はnodeで実行する場合。ブラウザ版は同じフォルダのindex.htmlを参照  */
+/* この例はNode.jsで実行する場合。ブラウザ版は同じフォルダのindex.htmlを参照  */
 /* 実行前にコマンドラインで次を実行してmomentのインストールが必要 */
 /*  npm install --save moment-timezone  */
 

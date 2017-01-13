@@ -1,4 +1,6 @@
 .DS_Store
+Makefile
+TAGS
 *.old
 *.old*
 *-old*

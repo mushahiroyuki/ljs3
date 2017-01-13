@@ -1,4 +1,4 @@
-/* Nodeで実行 */
+/* Node.jsで実行 */
 const fs = require('fs');
 function readSketchyFile() { /* sketchy: 怪しげな, 疑わしい */
   try {

@@ -1,4 +1,4 @@
-/* Nodeで実行 */
+/* Node.jsで実行 */
 const fs = require('fs');
 
 fs.readFile('a.txt', function(err, dataA) {
