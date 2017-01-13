@@ -2,7 +2,7 @@
 
 ---
 
-![表紙](http://www.marlin-arms.com/jpn/arts/books/ljs3.png)
+![表紙](http://www.marlin-arms.com/jpn/arts/books-small/ljs3.png)
 
 ---
 
