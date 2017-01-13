@@ -13,12 +13,13 @@
 
 |フォルダ名  |説明         |
 |:--        |:--         |
-|ch02       |2章の例題    |
-|ch03       |3章の例題    |
+|example/index.html       |目次    |
+|example/ch02       |2章の例題    |
+|example/ch03       |3章の例題    |
 |...        |...         |
-|ch21       |21章の例題   |
-|chac       |付録Cの例題   |
-|chad       |付録Dの例題   |
+|example/ch21       |21章の例題   |
+|example/chac       |付録Cの例題   |
+|example/chad       |付録Dの例題   |
 
 
 
