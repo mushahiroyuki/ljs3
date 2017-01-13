@@ -1,12 +1,10 @@
 # 初めてのJavaScript 第3版
 
----
-
 ![表紙](http://www.marlin-arms.com/jpn/arts/books-small/ljs3.png)
 
----
-
 [オライリー・ジャパン](http://www.oreilly.co.jp/books/9784873117836/)発行の『[初めてのJavaScript 第3版](http://www.marlin-arms.com/support/ljs3/)』の例題用リポジトリです。
+
+例題のダウンロードは、ページ右上にある黄緑色のボタン［Clone or download］をクリックして、［Download ZIP］をクリックするのが簡単です。
 
 本について詳しくは[サポートページ](http://www.marlin-arms.com/support/ljs3/)をご覧ください。
 
