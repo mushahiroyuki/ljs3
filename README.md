@@ -6,6 +6,8 @@
 
 例題のダウンロードは、ページ右上にある黄緑色のボタン［Clone or download］をクリックして、［Download ZIP］をクリックするのが簡単です。
 
+出先やスマフォでソースコードを見たい場合は、[スマフォ用のページ](http://www.marlin-arms.com/support/ljs3/example-mbl/index.html)をご覧ください。多くの例で実行結果の下にソースコードが表示されます。
+
 本について詳しくは[サポートページ](http://www.marlin-arms.com/support/ljs3/)をご覧ください。
 
 
