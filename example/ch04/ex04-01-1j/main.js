@@ -1,3 +1,4 @@
+'use strict';
 // m以上n以下のランダムな整数を返す
 function ランダムに整数を返す(m, n) {
   return m + Math.floor((n - m + 1)*Math.random());
