@@ -4,12 +4,21 @@
 
 [オライリー・ジャパン](http://www.oreilly.co.jp/books/9784873117836/)発行の『[初めてのJavaScript 第3版](http://www.marlin-arms.com/support/ljs3/)』の例題用リポジトリです。
 
-例題のダウンロードは、ページ右上にある黄緑色のボタン［Clone or download］をクリックして、［Download ZIP］をクリックするのが簡単です。
-
-出先やスマフォでソースコードを見たい場合は、[スマフォ用のページ](http://www.marlin-arms.com/support/ljs3/example-mbl/index.html)をご覧ください。多くの例で実行結果の下にソースコードが表示されます。
-
-本について詳しくは[サポートページ](http://www.marlin-arms.com/support/ljs3/)をご覧ください。
-
+<div>
+<ul>
+  <li>	
+  例題のダウンロードは、ページ右上にある黄緑色のボタン［Clone or download］をクリックして、［Download ZIP］をクリックするのが簡単です。
+  </li>
+  <li>
+  出先やスマフォでソースコードを見たい場合は、[スマフォ用のページ](http://www.marlin-arms.com/support/ljs3/example-mbl/index.html)をご覧ください。多くの例で実行結果の下にソースコードが表示されます。
+  </li>
+  <li>
+  node.jsはv6.9.5以降をご利用ください。
+  </li>
+  <li>
+  本について詳しくは[サポートページ](http://www.marlin-arms.com/support/ljs3/)をご覧ください。
+  </li>
+</div>
 
 ## ファイル構成
 
