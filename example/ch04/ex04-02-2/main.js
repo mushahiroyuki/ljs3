@@ -1,6 +1,6 @@
 let s = '3';  // 数字を含む文字列
 for(; s.length<10; s = ' ' + s);  // 10桁になるまで前に空白を埋める
-console.log(s); //          0   （空白9個+「0」）
+console.log(s); //          3   （空白9個+「3」）
 
 for(let x=0.2; x<3.0; x += 0.2) // 整数以外の増分
   console.log(x);
