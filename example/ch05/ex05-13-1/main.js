@@ -10,7 +10,7 @@ const nums = [ 3, 5, 15, 7, 5 ];
 let n, i=0;
 /* 下のwhile文の条件で、nにはnums[i]の値が順番に代入されていく。
    nの値が10より小さいときだけwhile文の本体が実行される */
-while(i<nums.length, (n = nums[i++]) < 10) {
+while(i<nums.length && (n = nums[i++]) < 10) {
   console.log(`10より小さい数字を発見：${n}`);
 }
 console.log(`10より大きい数字を発見：${n}`);
