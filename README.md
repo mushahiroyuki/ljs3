@@ -31,6 +31,7 @@
 |example/ch21       |21章の例題   |
 |example/chac       |付録Cの例題   |
 |example/chad       |付録Dの例題   |
+|example/chae       |付録E（付録Dの英語識別子バージョン）の例題   |
 
 
 
