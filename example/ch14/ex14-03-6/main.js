@@ -5,8 +5,8 @@ function countdown(seconds) {
       timeoutIds.push(setTimeout(function() {
         if(i===13) {
           timeoutIds.forEach(clearTimeout); /* すべてクリア */
-	  return onRejected(new Error(`${i}という数は不吉過ぎます`));
-	}
+          return onRejected(new Error(`${i}という数は不吉過ぎます`));
+        }
         if(i>0) console.log(i + '...');
         else onFulfilled(console.log("GO!"));
       }, (seconds-i)*1000))
