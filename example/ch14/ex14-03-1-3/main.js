@@ -15,7 +15,7 @@ function countdown(seconds) {
 const p = countdown(5); /* プロミスのインスタンスを代入 */
 p.then(function() { /* 成功（fulfilled）時に行う処理を記述 */
   console.log("カウントダウン成功");
-})
+});
 p.catch(function(err) { /* 失敗（rejected）時に行う処理を記述 */
   console.log("カウントダウンでエラーが起こった：" + err.message);
 });
