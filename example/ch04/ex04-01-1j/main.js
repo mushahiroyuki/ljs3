@@ -56,5 +56,5 @@ while(残り資金 > 0 && 残り資金 < 100) {
   console.log(`  払戻金: ${払戻金}`);
 }
 console.log(`  残金: ${残り資金}`);
-if (100 < 残り資金) console.log("意気揚々と船に戻る。\n");
+if (100 <= 残り資金) console.log("意気揚々と船に戻る。\n");
 else console.log("トボトボと船に帰る。\n");
