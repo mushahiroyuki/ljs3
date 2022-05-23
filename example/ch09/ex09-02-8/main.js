@@ -39,8 +39,8 @@ class Motorcycle extends Vehicle {} /* オートバイは乗り物のサブク�
 
 const c2 = new Car(); // Vehicleが生成された\nCarが生成された
 const m = new Motorcycle(); // Vehicleが生成された
-console.log(c instanceof Car); // true
-console.log(c instanceof Vehicle); // true
+console.log(c2 instanceof Car); // true
+console.log(c2 instanceof Vehicle); // true
 console.log(m instanceof Car); // false
 console.log(m instanceof Motorcycle); // true
 console.log(m instanceof Vehicle); // true
