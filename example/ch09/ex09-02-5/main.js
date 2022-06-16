@@ -10,7 +10,7 @@ class Es2015Car {
   set userGear(value) {
     if(this._userGears.indexOf(value) < 0)
       throw new Error(`ギア指定が正しくない：${value}`);
-    this._userGear = vaule;
+    this._userGear = value;
   }
   
   shift(gear) { this.userGear = gear; }
