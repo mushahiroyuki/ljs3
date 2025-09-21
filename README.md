@@ -4,6 +4,10 @@
 
 [オライリー・ジャパン](https://www.oreilly.co.jp/books/9784873117836/)発行の『[初めてのJavaScript 第3版](https://www.marlin-arms.com/support/ljs3/)』の例題用リポジトリです。
 
+## 更新情報
+ - <a href="https://marlin-arms.com/support/ljs3/errata.html">正誤表</a>を更新しました（2024.9.21）
+
+## 例題について
 <div>
 <ul>
   <li>	
