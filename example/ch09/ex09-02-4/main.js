@@ -31,17 +31,13 @@ console.log(car1);
 Car {
   make: 'Tesla',
   model: 'Model S',
-  userGears: [ 'P', 'N', 'R', 'D' ],
+  _userGears: [ 'P', 'N', 'R', 'D' ],
   userGear: 'P' }
 */
 
 console.log(car2);
 /* 実行結果
-Car {
-  make: 'Mazda',
-  model: '3i',
-  userGears: [ 'P', 'N', 'R', 'D' ],
-  userGear: 'P' }
+Car { make: 'Mazda', model: '3i', _userGears: [ 'P', 'N', 'R', 'D' ] }
 */
 // #@@range_end(list2)
 
