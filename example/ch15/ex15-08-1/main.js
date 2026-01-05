@@ -5,8 +5,8 @@ console.log(d.getMonth()); // 9  （ →10月）
 console.log(d.getDate()); // 10
 console.log(d.getDay()); // 2  （→火曜日）
 console.log(d.getHours()); // 9
-console.log(d.getMinutes()); // 0
-console.log(d.getSeconds()); // 0
+console.log(d.getMinutes()); // 18
+console.log(d.getSeconds()); // 59
 console.log(d.getMilliseconds()); // 0
 
 /* UTCで出力 */

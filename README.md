@@ -5,7 +5,7 @@
 ![表紙](https://www.marlin-arms.com/jpn/arts/books-small/ljs3.png)
 
 ## 更新情報
- - <a href="https://www.marlin-arms.com/support/ljs3/errata.html">正誤表</a>を更新しました（2024.9.21）
+ - <a href="https://www.marlin-arms.com/support/ljs3/errata.html">正誤表</a>を更新しました（2026.1.5）
 
 ## 例題について
 <div>
